@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">LayoutExample</string>
+    <string name="center_text">Center Text</string>
+    <string name="start_left_text">Start(Left) Text</string>
+    <string name="end_right_text">End(Right) Text</string>
+    <string name="top_text">Top Text</string>
+    <string name="bottom_text">Bottom Text</string>
+    <string name="reference_text">Reference Text</string>
+    <string name="bias_text">Bias Text</string>
 </resources>
