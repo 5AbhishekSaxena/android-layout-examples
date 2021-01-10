@@ -2,9 +2,9 @@
 
 This is a project to understand how to create layouts using constraint layout. It has two layouts, one in constraint layout and another one in relative layout to demonstrate comparison between the two.
 
-```
-ConstraintLayout allows you to create large and complex layouts with a flat view hierarchy (no nested view groups). It's similar to RelativeLayout in that all views are laid out according to relationships between sibling views and the parent layout, but it's more flexible than RelativeLayout and easier to use with Android Studio's Layout Editor.
-```
+
+>ConstraintLayout allows you to create large and complex layouts with a flat view hierarchy (no nested view groups). It's similar to RelativeLayout in that all views are laid out according to relationships between sibling views and the parent layout, but it's more flexible than RelativeLayout and easier to use with Android Studio's Layout Editor.
+
 
 ## Benefits
 - Responsive Layout
