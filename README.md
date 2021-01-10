@@ -16,7 +16,7 @@ This is a project to understand how to create layouts using constraint layout. I
   - If you like the repository, please star it.
   
   ## License
-  MIT License. See the [LICENSE](LICENSE) file for details
+  Apache-2.0 License. See the [LICENSE](LICENSE) file for details
   
  ## Author
  <a href="https://github.com/5AbhishekSaxena"><img src="https://img.shields.io/github/followers/5AbhishekSaxena?style=social"></a> 
@@ -25,4 +25,4 @@ This is a project to understand how to create layouts using constraint layout. I
 <a href="https://www.instagram.com/developing.developer/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/@developing.developer--brightgreen?style=social&logo=instagram"></a>
 
   
- Abhishek Saxena 
+ Abhishek Saxena
